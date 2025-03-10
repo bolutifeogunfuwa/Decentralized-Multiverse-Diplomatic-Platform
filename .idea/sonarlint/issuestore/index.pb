@@ -5,3 +5,5 @@ b
 2contracts/cross-universal-conflict-resolution.clar,a/3/a3cc835b662bc1ee4eef7ad7b7fea62f09fa51a5
 a
 1tests/cross-universal-conflict-resolution.test.ts,c/b/cb5231586c604c895391860fba52fae7d465e49f
+^
+.contracts/inter-reality-treaty-management.clar,4/9/49b1943662015c7bc0de3fb26b08cca2dc7d2d6e

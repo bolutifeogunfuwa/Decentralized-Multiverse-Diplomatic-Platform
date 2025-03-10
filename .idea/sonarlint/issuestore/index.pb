@@ -7,3 +7,5 @@ a
 1tests/cross-universal-conflict-resolution.test.ts,c/b/cb5231586c604c895391860fba52fae7d465e49f
 ^
 .contracts/inter-reality-treaty-management.clar,4/9/49b1943662015c7bc0de3fb26b08cca2dc7d2d6e
+]
+-tests/inter-reality-treaty-management.test.ts,7/0/70542523ae685fa4535a32fc77dd20be11d6540c

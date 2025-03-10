@@ -15,3 +15,5 @@ Z
 *tests/multiversal-embassy-registry.test.ts,5/6/562a1cb32ac0ad6738064b9e7ea7baed75d6f194
 \
 ,contracts/reality-alignment-negotiation.clar,2/d/2d625602138338f0ebc5bc867ce1918c5dea1288
+[
++tests/reality-alignment-negotiation.test.ts,8/6/8680773be3b2acb2988c024d319c52ba4666c928

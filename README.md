@@ -1,0 +1,2 @@
+# Decentralized Multiverse Diplomatic Platform
+ 
